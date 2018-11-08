@@ -1,4 +1,4 @@
-微信小程序直播点赞效果
+微信小程序直播点赞组件
 ===
 
 主流直播点赞效果的 canvas 绘制，改自 [jeffer0323/We-Canvas](https://github.com/jeffer0323/We-Canvas)
