@@ -1,0 +1,7 @@
+.icon-dianzan{
+  position: absolute;
+  right: 30rpx;
+  bottom: 30rpx;
+  width: 80rpx;
+  height: 80rpx;
+}

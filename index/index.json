@@ -1,0 +1,8 @@
+{
+    "usingComponents": {
+        "live-like": "components/liveLike/liveLike"
+    },
+    "window": {
+        "navigationBarTitleText": "直播点赞"
+    }
+}
