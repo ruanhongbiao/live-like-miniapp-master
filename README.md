@@ -9,6 +9,7 @@
 2.若预览提示登录账户不是该小程序的开发者或者暂无体验权限，请在导入项目时把appId改成自己的appId!
 
 3.效果预览图见：assets/preview.gif
+
 ![小程序 siri 波形图 预览](./assets/preview.gif)
 
 
